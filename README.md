@@ -1,6 +1,6 @@
 # Bin Packing Problem: Visualization
 
-This project addresses the special case of a Bin Packing problem. 
+This project addresses the special case of a Bin Packing problem [1]. 
 
 
 In application that we consider we are given a set of boxes that have to be shipped. The description of the set includes dimensions of each box, number of boxes of each type, and binary indicator if this type of boxes are stackable or not (i.e. if we are allowed to put something on top of these boxes).
