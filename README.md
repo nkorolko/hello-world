@@ -8,7 +8,7 @@ In application that we consider we are given a set of boxes that have to be ship
 The primary objective is to determine the minimum number of containers that we need to ship all boxes. The dimensions of containers are known. 
 The secondary question is how to stack all the boxes inside containers in an efficient way, so that the number of containers found at the previous step is indeed sufficient.
 
-Both of these questions were solved as mixed-binary optimization problem implemented in Julia/JuMP [2]. Here we present only the auxiliary visualization tool for the optimal solution. We use MATLAB to demonstrate how to sequentially load boxes to the the container. 
+Both of these questions were solved as mixed-binary optimization problem implemented in Julia/JuMP [2]. Here we present only the auxiliary visualization tool for the optimal solution. We use MATLAB to demonstrate how to sequentially load boxes to the the container. (File: Visualization_Box.m)
 
 
 [1] https://en.wikipedia.org/wiki/Bin_packing_problem
