@@ -12,4 +12,5 @@ Both of these questions were solved as mixed-binary optimization problem impleme
 
 
 [1] https://en.wikipedia.org/wiki/Bin_packing_problem
+
 [2] http://julialang.org/
